@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <!-- Quiz questions -->
+    <string name="question_australia">Australia is located on its own continent.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea and the Mediterranean Sea.</string>
+    <string name="question_africa">The Amazon River is the longest river in Africa.</string>
+    <string name="question_americas">The Rocky Mountains are in North America.</string>
+    <string name="question_asia">Mount Everest is located in South America.</string>
+
+    <!-- Main activity -->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="score_format">Your score: %1$d / %2$d</string>
+
+    <!-- Cheat activity -->
+    <string name="cheat_activity_title">Cheat Screen</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="true_string">TRUE</string>
+    <string name="false_string">FALSE</string>
+    <string name="cheat_warning_format">You will lose points if the app finds out!</string>
+    <string name="api_level_warning">This feature is not available prior to Android 5.0 (API level 21)</string>
+</resources>
